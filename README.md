@@ -13,6 +13,14 @@ git clone https://github.com/robsonmvieira/list-files-top-down
 yarn
 ```
 
+## Crie um .env
+Algumas informações são necessária para o consumo dos dados. Crie um arquivo chamado .env na raiz do projeto e coloque as informações de acesso ao servidor FTP
+
+Há um .env.example para guiar as informações necessária
+```js
+.env
+```
+
 ## Levantando o servidor
 ```
 yarn dev
