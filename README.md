@@ -9,6 +9,8 @@ git clone https://github.com/robsonmvieira/list-files-top-down
 ```
 
 ## Instale as dependências
+
+Depois de entrar na pasta destino aonde foi clonado o projeto, rode o comando: 
 ```
 yarn
 ```
